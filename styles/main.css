@@ -31,8 +31,6 @@ header {
 
 main h1 {
     border: 4px double var(--accent-color);
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
     text-align: center;
     margin: 1em auto;
     width: 80%;
